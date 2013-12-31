@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    require "foobar_lotto"
+
+    FoobarLotto::Drawing.draw # => [23, 22, 3, 7, 16]
 
 ## Contributing
 

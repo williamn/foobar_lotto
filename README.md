@@ -1,6 +1,6 @@
 # FoobarLotto
 
-TODO: Write a gem description
+FoobarLotto is a Ruby gem to help easily generate lottery drawings.
 
 ## Installation
 

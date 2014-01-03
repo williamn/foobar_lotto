@@ -1,6 +1,6 @@
 module FoobarLotto
   class Drawing
-    NUMBERS = 5
+    NUMBERS = 6
 
     def draw
       Array.new(NUMBERS){ single_draw }

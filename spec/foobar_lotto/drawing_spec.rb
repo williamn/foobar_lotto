@@ -9,8 +9,8 @@ module FoobarLotto
         draw.should be_a(Array)
       end
 
-      it "returns an array with 5 elements" do
-        expect(draw.count).to eq(5)
+      it "returns an array with 6 elements" do
+        expect(draw.count).to eq(6)
       end
 
       it "each element is an integer" do
